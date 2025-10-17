@@ -9,13 +9,6 @@ This project helps beginners learn file handling and JSON data storage in Python
   <img src="assets/project-structure.png" alt="Project Structure" width="600"/>
 </p>
 
-py-project-todo-list-cli/
-├── .gitignore
-├── README.md
-├── todo-list.py
-└── data/
-└── todo-list.json
-
 
 ## 🚀 How to Run
 1. Open this repo in **GitHub Codespaces**
