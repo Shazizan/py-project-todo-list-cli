@@ -5,6 +5,10 @@ This project helps beginners learn file handling and JSON data storage in Python
 
 
 ## 📂 Project Structure
+<p align="center">
+  <img src="assets/project-structure.png" alt="Project Structure" width="600"/>
+</p>
+
 py-project-todo-list-cli/
 ├── .gitignore
 ├── README.md
