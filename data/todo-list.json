@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "task": "study nihongo",
+        "done": true
+    },
+    {
+        "task": "homework",
+        "done": true
+    },
+    {
+        "task": "watching anime",
+        "done": false
+    },
+    {
+        "task": "jogging",
+        "done": true
+    }
+]
