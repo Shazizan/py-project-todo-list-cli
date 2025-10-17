@@ -36,4 +36,6 @@ This project helps beginners learn file handling and JSON data storage in Python
 
 🧪 Run it
 In your Codespaces terminal, type:
-python todo-list.py
+   ```bash
+   python todo-list.py
+
