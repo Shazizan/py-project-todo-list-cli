@@ -1,4 +1,4 @@
-# 📝 To-Do CLI App
+# 📝 To-Do List CLI App
 
 A simple command-line To-Do List built with Python.
 
